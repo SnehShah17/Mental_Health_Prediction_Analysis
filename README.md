@@ -85,7 +85,3 @@ Feel free to explore and contribute to the project for a deeper understanding of
 
 - Python 3.x
 - Required Python packages: pandas, numpy, scikit-learn, matplotlib, seaborn
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
